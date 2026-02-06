@@ -1,0 +1,2 @@
+# Requires: proto-duration
+# (Not available on PyPI)
